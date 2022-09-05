@@ -1,1 +1,1 @@
-Script for current directory
+Shell Redirections and Filters
